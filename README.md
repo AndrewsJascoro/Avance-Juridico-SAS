@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,8 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# Avance-Juridico-SAS
+ From having a file of the et.xml type that we use as an example, we create a web visualization that allows exploring the content in an intuitive and navigable way using tools such as Python and React. For a legal services agency in the Spanish language.
+ Visualización permite explorar el contenido de forma intuitiva y navegable.
+>>>>>>> 6d231d5a4940c92b0dfe51b8584e446106a1d2bd
